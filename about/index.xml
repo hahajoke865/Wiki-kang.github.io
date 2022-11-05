@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Wiki-kang</title>
+    <link>https://Wiki-kang.github.io/about/</link>
+    <description>Recent content in Abouts on Wiki-kang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>phygerr@gmail.com (bilibili)</managingEditor>
+    <webMaster>phygerr@gmail.com (bilibili)</webMaster>
+    <lastBuildDate>Mon, 27 Jun 2022 15:12:50 +0800</lastBuildDate><atom:link href="https://Wiki-kang.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>https://Wiki-kang.github.io/about/about/</link>
+      <pubDate>Mon, 27 Jun 2022 15:12:50 +0800</pubDate>
+      <author>phygerr@gmail.com (bilibili)</author>
+      <guid>https://Wiki-kang.github.io/about/about/</guid>
+      <description>Title 野生程序员 Major CloudNative、Python Email phygerr@gmail.com More 公众号：Python研究所 扫码关注</description>
+    </item>
+    
+  </channel>
+</rss>
