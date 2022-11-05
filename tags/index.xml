@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Wiki-kang</title>
-        <link>https://Wiki-kang.github.io/tags/</link>
+        <link>https://hahajoke865.github.io/Wiki-kang.github.io/tags/</link>
         <description>Tags - Tag - Wiki-kang</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>phygerr@gmail.com (bilibili)</managingEditor>
-            <webMaster>phygerr@gmail.com (bilibili)</webMaster><atom:link href="https://Wiki-kang.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>phygerr@gmail.com (bilibili)</webMaster><atom:link href="https://hahajoke865.github.io/Wiki-kang.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
