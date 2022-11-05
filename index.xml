@@ -1,10 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Wiki-kang</title>
-        <link>https://hahajoke865.github.io/Wiki-kang.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>phygerr@gmail.com (bilibili)</managingEditor>
-            <webMaster>phygerr@gmail.com (bilibili)</webMaster><lastBuildDate>Mon, 27 Jun 2022 15:12:50 &#43;0800</lastBuildDate>
-            <atom:link href="https://hahajoke865.github.io/Wiki-kang.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Wiki-kang</title><link>https://hahajoke865.github.io/Wiki-kang.github.io/</link><description>This is my cool site</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>phygerr@gmail.com (bilibili)</managingEditor><webMaster>phygerr@gmail.com (bilibili)</webMaster><lastBuildDate>Mon, 27 Jun 2022 15:12:50 +0800</lastBuildDate><atom:link href="https://hahajoke865.github.io/Wiki-kang.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
